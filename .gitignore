@@ -29,7 +29,10 @@ node_modules
 # Optional npm cache directory
 .npm
 
+<<<<<<< HEAD
+=======
 .idea
 
+>>>>>>> origin/master
 # Optional REPL history
 .node_repl_history
